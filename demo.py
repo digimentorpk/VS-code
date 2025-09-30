@@ -1,10 +1,5 @@
 def my_function():
-    a=3
-    b=2
-    c=1
-    return d
+    a = 4
+    return a
 
     my_function()
-
-
-    test()
