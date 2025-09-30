@@ -4,5 +4,4 @@ def my_function():
     """
     return "Hello Dosto"
 
-
     my_function()
